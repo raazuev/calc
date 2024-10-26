@@ -1,3 +1,3 @@
-# calc
+# Калькулятор
 
-A ready-made calculator for simple operations
+Доступный калькулятор на чистом Js
